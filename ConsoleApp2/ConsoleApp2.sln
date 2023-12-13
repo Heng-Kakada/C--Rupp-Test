@@ -7,7 +7,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "W6-WinForm", "W6-WinForm", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "demoTest", "demoTest", "{750EB24A-2D15-4E33-8B2A-9467050BED73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recs_WinForm_Test", "D:\Development\C#-Rupp-Test\W6-WinForm\demoTest\Recs_WinForm_Test\Recs_WinForm_Test.csproj", "{3AE1FF76-FC94-4E93-A96E-F2F5C5705F89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recs_WinForm_Test", "D:\Development\C#-Rupp-Test\W6-WinForm\demoTest\Recs_WinForm_Test\Recs_WinForm_Test.csproj", "{3AE1FF76-FC94-4E93-A96E-F2F5C5705F89}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab6Practice", "Lab6Practice", "{0D0308D2-D811-4398-A8CB-BB8BC99CF1C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W6_Practice_WinForm_CRUD", "..\W6-WinForm\Lab6Practice\W6_Practice_WinForm_CRUD\W6_Practice_WinForm_CRUD.csproj", "{26EEB857-836F-4D5C-8AF5-895CC0BF59F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,6 +23,10 @@ Global
 		{3AE1FF76-FC94-4E93-A96E-F2F5C5705F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AE1FF76-FC94-4E93-A96E-F2F5C5705F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AE1FF76-FC94-4E93-A96E-F2F5C5705F89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26EEB857-836F-4D5C-8AF5-895CC0BF59F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26EEB857-836F-4D5C-8AF5-895CC0BF59F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26EEB857-836F-4D5C-8AF5-895CC0BF59F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26EEB857-836F-4D5C-8AF5-895CC0BF59F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -26,6 +34,8 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{750EB24A-2D15-4E33-8B2A-9467050BED73} = {E129DA61-EE02-4890-A063-56CAE43EF400}
 		{3AE1FF76-FC94-4E93-A96E-F2F5C5705F89} = {750EB24A-2D15-4E33-8B2A-9467050BED73}
+		{0D0308D2-D811-4398-A8CB-BB8BC99CF1C6} = {E129DA61-EE02-4890-A063-56CAE43EF400}
+		{26EEB857-836F-4D5C-8AF5-895CC0BF59F9} = {0D0308D2-D811-4398-A8CB-BB8BC99CF1C6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {87BA00EA-4CFC-4A1C-B5B9-4E6CA37EFE7A}

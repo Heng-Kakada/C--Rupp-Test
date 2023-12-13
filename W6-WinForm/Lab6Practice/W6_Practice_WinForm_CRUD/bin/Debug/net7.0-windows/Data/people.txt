@@ -1,0 +1,8 @@
+﻿100/Men Sotha/Male/23
+200/Keo Dara/Male/39
+500/Kung Neary/Female/45
+400/Choup Thida/Female/28
+300/Hang Saray/Female/26
+800/Cheat Rithy/Male/21
+700/Prak Mom/Female/33
+900/Heng Kakada/Male

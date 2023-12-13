@@ -1,0 +1,17 @@
+D:\Development\C#-Rupp-Test\W6-WinForm\Lab6Practice\W6_Practice_WinForm_CRUD\bin\Debug\net7.0-windows\W6_Practice_WinForm_CRUD.exe
+D:\Development\C#-Rupp-Test\W6-WinForm\Lab6Practice\W6_Practice_WinForm_CRUD\bin\Debug\net7.0-windows\W6_Practice_WinForm_CRUD.deps.json
+D:\Development\C#-Rupp-Test\W6-WinForm\Lab6Practice\W6_Practice_WinForm_CRUD\bin\Debug\net7.0-windows\W6_Practice_WinForm_CRUD.runtimeconfig.json
+D:\Development\C#-Rupp-Test\W6-WinForm\Lab6Practice\W6_Practice_WinForm_CRUD\bin\Debug\net7.0-windows\W6_Practice_WinForm_CRUD.dll
+D:\Development\C#-Rupp-Test\W6-WinForm\Lab6Practice\W6_Practice_WinForm_CRUD\bin\Debug\net7.0-windows\W6_Practice_WinForm_CRUD.pdb
+D:\Development\C#-Rupp-Test\W6-WinForm\Lab6Practice\W6_Practice_WinForm_CRUD\obj\Debug\net7.0-windows\W6_Practice_WinForm_CRUD.Form1.resources
+D:\Development\C#-Rupp-Test\W6-WinForm\Lab6Practice\W6_Practice_WinForm_CRUD\obj\Debug\net7.0-windows\W6_Practice_WinForm_CRUD.csproj.GenerateResource.cache
+D:\Development\C#-Rupp-Test\W6-WinForm\Lab6Practice\W6_Practice_WinForm_CRUD\obj\Debug\net7.0-windows\W6_Practice_WinForm_CRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\C#-Rupp-Test\W6-WinForm\Lab6Practice\W6_Practice_WinForm_CRUD\obj\Debug\net7.0-windows\W6_Practice_WinForm_CRUD.AssemblyInfoInputs.cache
+D:\Development\C#-Rupp-Test\W6-WinForm\Lab6Practice\W6_Practice_WinForm_CRUD\obj\Debug\net7.0-windows\W6_Practice_WinForm_CRUD.AssemblyInfo.cs
+D:\Development\C#-Rupp-Test\W6-WinForm\Lab6Practice\W6_Practice_WinForm_CRUD\obj\Debug\net7.0-windows\W6_Practice_WinForm_CRUD.csproj.CoreCompileInputs.cache
+D:\Development\C#-Rupp-Test\W6-WinForm\Lab6Practice\W6_Practice_WinForm_CRUD\obj\Debug\net7.0-windows\W6_Practice_WinForm_CRUD.dll
+D:\Development\C#-Rupp-Test\W6-WinForm\Lab6Practice\W6_Practice_WinForm_CRUD\obj\Debug\net7.0-windows\refint\W6_Practice_WinForm_CRUD.dll
+D:\Development\C#-Rupp-Test\W6-WinForm\Lab6Practice\W6_Practice_WinForm_CRUD\obj\Debug\net7.0-windows\W6_Practice_WinForm_CRUD.pdb
+D:\Development\C#-Rupp-Test\W6-WinForm\Lab6Practice\W6_Practice_WinForm_CRUD\obj\Debug\net7.0-windows\W6_Practice_WinForm_CRUD.genruntimeconfig.cache
+D:\Development\C#-Rupp-Test\W6-WinForm\Lab6Practice\W6_Practice_WinForm_CRUD\obj\Debug\net7.0-windows\ref\W6_Practice_WinForm_CRUD.dll
+D:\Development\C#-Rupp-Test\W6-WinForm\Lab6Practice\W6_Practice_WinForm_CRUD\bin\Debug\net7.0-windows\Data\people.txt
