@@ -10,7 +10,6 @@ namespace W6_Practice_WinForm_CRUD.Model;
 
 public class Person
 {
-    public static string Separator { get; set; } = "/";
     public static Person? CreateInstance(string data)
     {
         string[] arr = data.Split(Separator);
@@ -25,10 +24,13 @@ public class Person
             Age = age,
         };
     }
+
+    // fields
+    public static string Separator { get; set; } = "/";
+    // Properties
     public int No { get; set; } = 0;
     public string Name { get; set; } = default!;
     public string Gender { get; set; } = default!;
     public byte Age { get; set; } = default;
     public string info => $"name: {Name}, gender: {Gender}, age: {Age}";
-
 }

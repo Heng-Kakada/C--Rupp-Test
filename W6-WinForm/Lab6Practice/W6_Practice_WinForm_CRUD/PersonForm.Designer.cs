@@ -1,6 +1,6 @@
 ﻿namespace W6_Practice_WinForm_CRUD
 {
-    partial class Form1
+    partial class PersonForm
     {
         /// <summary>
         ///  Required designer variable.
@@ -31,7 +31,7 @@
             DataGridViewCellStyle dataGridViewCellStyle1 = new DataGridViewCellStyle();
             DataGridViewCellStyle dataGridViewCellStyle2 = new DataGridViewCellStyle();
             DataGridViewCellStyle dataGridViewCellStyle3 = new DataGridViewCellStyle();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(PersonForm));
             label1 = new Label();
             dgvPeople = new DataGridView();
             Column1 = new DataGridViewTextBoxColumn();
@@ -62,6 +62,7 @@
             btnDelete = new Button();
             totalLabel = new Label();
             totalPeople = new Label();
+            btnGroupGender = new Button();
             ((System.ComponentModel.ISupportInitialize)dgvPeople).BeginInit();
             creatingGroupBox.SuspendLayout();
             editingGroupBox.SuspendLayout();
@@ -424,11 +425,29 @@
             totalPeople.Size = new Size(0, 25);
             totalPeople.TabIndex = 11;
             // 
+            // btnGroupGender
+            // 
+            btnGroupGender.BackColor = Color.CornflowerBlue;
+            btnGroupGender.BackgroundImageLayout = ImageLayout.None;
+            btnGroupGender.Cursor = Cursors.Hand;
+            btnGroupGender.FlatAppearance.BorderColor = Color.White;
+            btnGroupGender.FlatAppearance.MouseDownBackColor = Color.Transparent;
+            btnGroupGender.FlatStyle = FlatStyle.Flat;
+            btnGroupGender.Font = new Font("Cascadia Mono", 12F, FontStyle.Regular, GraphicsUnit.Point);
+            btnGroupGender.ForeColor = Color.White;
+            btnGroupGender.Location = new Point(337, 603);
+            btnGroupGender.Name = "btnGroupGender";
+            btnGroupGender.Size = new Size(150, 30);
+            btnGroupGender.TabIndex = 9;
+            btnGroupGender.Text = "Group Gender";
+            btnGroupGender.UseVisualStyleBackColor = false;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1180, 657);
+            Controls.Add(btnGroupGender);
             Controls.Add(totalPeople);
             Controls.Add(totalLabel);
             Controls.Add(btnDelete);
@@ -483,5 +502,6 @@
         private Button btnDelete;
         private Label totalLabel;
         private Label totalPeople;
+        private Button btnGroupGender;
     }
 }

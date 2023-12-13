@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace W6_Practice_WinForm_CRUD;
 
-public class Utils
+public class Util
 {
     public static string CapitalizeFirstLetter(string str)
     {
