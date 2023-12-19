@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PIKO DEV\\Documents\\C--Rupp-Test\\W6-WinForm\\Lab6Practice\\W6_Practice_WinForm_CRUD\\W6_Practice_WinForm_CRUD.csproj",
-      "projectName": "W6_Practice_WinForm_CRUD",
-      "projectPath": "C:\\Users\\PIKO DEV\\Documents\\C--Rupp-Test\\W6-WinForm\\Lab6Practice\\W6_Practice_WinForm_CRUD\\W6_Practice_WinForm_CRUD.csproj",
+      "projectUniqueName": "C:\\Users\\PIKO DEV\\Documents\\C--Rupp-Test\\W7\\Lab7\\MultiForm\\MultiForm.csproj",
+      "projectName": "MultiForm",
+      "projectPath": "C:\\Users\\PIKO DEV\\Documents\\C--Rupp-Test\\W7\\Lab7\\MultiForm\\MultiForm.csproj",
       "packagesPath": "C:\\Users\\PIKO DEV\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PIKO DEV\\Documents\\C--Rupp-Test\\W6-WinForm\\Lab6Practice\\W6_Practice_WinForm_CRUD\\obj\\",
+      "outputPath": "C:\\Users\\PIKO DEV\\Documents\\C--Rupp-Test\\W7\\Lab7\\MultiForm\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

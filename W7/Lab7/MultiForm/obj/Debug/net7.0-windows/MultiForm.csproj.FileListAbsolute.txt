@@ -1,0 +1,17 @@
+C:\Users\PIKO DEV\Documents\C--Rupp-Test\W7\Lab7\MultiForm\bin\Debug\net7.0-windows\MultiForm.exe
+C:\Users\PIKO DEV\Documents\C--Rupp-Test\W7\Lab7\MultiForm\bin\Debug\net7.0-windows\MultiForm.deps.json
+C:\Users\PIKO DEV\Documents\C--Rupp-Test\W7\Lab7\MultiForm\bin\Debug\net7.0-windows\MultiForm.runtimeconfig.json
+C:\Users\PIKO DEV\Documents\C--Rupp-Test\W7\Lab7\MultiForm\bin\Debug\net7.0-windows\MultiForm.dll
+C:\Users\PIKO DEV\Documents\C--Rupp-Test\W7\Lab7\MultiForm\bin\Debug\net7.0-windows\MultiForm.pdb
+C:\Users\PIKO DEV\Documents\C--Rupp-Test\W7\Lab7\MultiForm\obj\Debug\net7.0-windows\MultiForm.Form1.resources
+C:\Users\PIKO DEV\Documents\C--Rupp-Test\W7\Lab7\MultiForm\obj\Debug\net7.0-windows\MultiForm.csproj.GenerateResource.cache
+C:\Users\PIKO DEV\Documents\C--Rupp-Test\W7\Lab7\MultiForm\obj\Debug\net7.0-windows\MultiForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PIKO DEV\Documents\C--Rupp-Test\W7\Lab7\MultiForm\obj\Debug\net7.0-windows\MultiForm.AssemblyInfoInputs.cache
+C:\Users\PIKO DEV\Documents\C--Rupp-Test\W7\Lab7\MultiForm\obj\Debug\net7.0-windows\MultiForm.AssemblyInfo.cs
+C:\Users\PIKO DEV\Documents\C--Rupp-Test\W7\Lab7\MultiForm\obj\Debug\net7.0-windows\MultiForm.csproj.CoreCompileInputs.cache
+C:\Users\PIKO DEV\Documents\C--Rupp-Test\W7\Lab7\MultiForm\obj\Debug\net7.0-windows\MultiForm.dll
+C:\Users\PIKO DEV\Documents\C--Rupp-Test\W7\Lab7\MultiForm\obj\Debug\net7.0-windows\refint\MultiForm.dll
+C:\Users\PIKO DEV\Documents\C--Rupp-Test\W7\Lab7\MultiForm\obj\Debug\net7.0-windows\MultiForm.pdb
+C:\Users\PIKO DEV\Documents\C--Rupp-Test\W7\Lab7\MultiForm\obj\Debug\net7.0-windows\MultiForm.genruntimeconfig.cache
+C:\Users\PIKO DEV\Documents\C--Rupp-Test\W7\Lab7\MultiForm\obj\Debug\net7.0-windows\ref\MultiForm.dll
+C:\Users\PIKO DEV\Documents\C--Rupp-Test\W7\Lab7\MultiForm\obj\Debug\net7.0-windows\MultiForm.CreateForm.resources
